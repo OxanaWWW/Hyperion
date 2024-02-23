@@ -28,3 +28,5 @@ result_flight = plane_cost(city_flight)
 result_hotel = hotel_cost(num_nights)
 result_rent_days = car_rental(rent_days)
 print(holidaycost(result_hotel, result_flight, result_rent_days))
+
+
